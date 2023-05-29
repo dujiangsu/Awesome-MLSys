@@ -4,17 +4,6 @@
 Awesome projects and papers for Machine Learning System on **HPC/Data-center/Edge**.
 Given there has been many established repos with very abundant contents, this repo focuses on the understanding and opinion of papers.
 
-## Contribution
-Welcome contribution! Share your reading experience!
-1. Create an issue in this repository. (The issue can be paper suggestion, paper discussion, and anything else)
-2. Provide your understanding and opinion on the paper or project.
-3. Suggest the major label and sub-labels.
-
-
-## Several Established Repos for MLSys Paper Summary.
-- [HuaizhengZhang/Awesome-System-for-Machine-Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning#maintainer)
-- [Shenggan/awesome-distributed-ml](https://github.com/Shenggan/awesome-distributed-ml)
-
 ## Papers
 - [Pipeline Parallel Training](Pipeline_Parallel_Training.md)
 - [Tensor Parallel Training](Tensor_Parallel_Training.md)
@@ -22,11 +11,15 @@ Welcome contribution! Share your reading experience!
 - [Inference System](Inference_System.md)
 - [Survey](Survey.md)
 
-
-
 ## Projects
 
+## Contribution
+Welcome contribution! Share your reading experience!
+1. Create an issue in this repository. (The issue can be paper suggestion, paper discussion, and anything else)
+2. Provide your understanding and opinion on the paper or project.
+3. Suggest the major label and sub-labels.
 
-
-
+## Several Established Repos for MLSys Paper Summary.
+- [HuaizhengZhang/Awesome-System-for-Machine-Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning#maintainer)
+- [Shenggan/awesome-distributed-ml](https://github.com/Shenggan/awesome-distributed-ml)
 
