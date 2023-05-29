@@ -1,0 +1,1 @@
+- [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](http://arxiv.org/abs/1909.08053) by NVIDIA, 2020
