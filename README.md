@@ -6,7 +6,7 @@ Given there has been many established repos with very abundant contents, this re
 
 ## Contribution
 Welcome contribution! Share your reading experience!
-1. Create an issue in this repository. The issue can be paper suggestion, paper discussion, and anything else.
+1. Create an issue in this repository. (The issue can be paper suggestion, paper discussion, and anything else)
 2. Provide your understanding and opinion on the paper or project.
 3. Suggest the major label and sub-labels.
 
@@ -20,12 +20,12 @@ Welcome contribution! Share your reading experience!
 - [Tensor Parallel Training](Tensor_Parallel_Training.md)
 - [Resource-Efficient Training](Resource_Efficient_Training.md)
 - [Inference System](Inference_System.md)
+- [Survey](Survey.md)
+
 
 
 ## Projects
 
-
-## [ToDo](ToDo.md)
 
 
 
