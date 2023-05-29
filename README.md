@@ -16,7 +16,7 @@ Welcome contribution! Share your reading experience!
 - [Shenggan/awesome-distributed-ml](https://github.com/Shenggan/awesome-distributed-ml)
 
 ## Papers
-- [Pipeline Parallel Training](Pipeline_Parallelism.md)
+- [Pipeline Parallel Training](Pipeline_Parallel_Training.md)
 - [Tensor Parallel Training](Tensor_Parallel_Training.md)
 - [Resource-Efficient Training](Resource_Efficient_Training.md)
 - [Inference System](Inference_System.md)
