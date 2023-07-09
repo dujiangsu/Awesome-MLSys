@@ -9,6 +9,7 @@ Given there has been many established repos with very abundant contents, this re
 - [Tensor Parallel Training](Tensor_Parallel_Training.md)
 - [Resource-Efficient Training](Resource_Efficient_Training.md)
 - [Inference System](Inference_System.md)
+- [Auto Parallel](Auto_Parallel.md)
 - [Survey](Survey.md)
 
 ## Projects
