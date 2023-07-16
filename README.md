@@ -5,9 +5,9 @@ Awesome projects and papers for Machine Learning System on **HPC/Data-center/Edg
 Given there has been many established repos with very abundant contents, this repo focuses on the understanding and opinion of papers.
 
 ## Papers
-- [Pipeline Parallel Training](Pipeline_Parallel_Training.md)
-- [Tensor Parallel Training](Tensor_Parallel_Training.md)
+- [Parallel Acceleration](Parallel_Acceleration.md)
 - [Resource-Efficient Training](Resource_Efficient_Training.md)
+- [Fine Tuning Optimization](Fine_Tuning_Optimization.md)
 - [Inference System](Inference_System.md)
 - [Auto Parallel](Auto_Parallel.md)
 - [Survey](Survey.md)
