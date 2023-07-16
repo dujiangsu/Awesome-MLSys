@@ -4,7 +4,7 @@
 - [Synthesizer: Rethinking Self-Attention for Transformer Models](http://proceedings.mlr.press/v139/tay21a.html) by Google Research, ICML 2021 \
    <img src="https://img.shields.io/badge/Main-Efficient Training-Green">
 > 1. Propose SYNTHESIZER model,  a Transformer model with self-attention modules replaced with Synthetic Attention modules. 
-> 2. In Dense Synthesizers, they use two feed-forward layers with ReLU activations to replace the QV^T dot product self-attention. In Random Synthesizers, the attention weights are initialized to random values.
+> 2. In Dense Synthesizers, they use two feed-forward layers with ReLU activations to replace the QK^T dot product self-attention. In Random Synthesizers, the attention weights are initialized to random values.
 > 3. Synthetic attention demonstrates competitive performance compared to vanilla self-attention on a wide range of language tasks.
 
 
